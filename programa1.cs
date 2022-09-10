@@ -13,6 +13,7 @@ class Tpk
         {
             var y = F(a[i]);
             Console.WriteLine(y > 400 ? $"{i} TOO LARGE" : $"{i} {y}");
+            // C1
         }
     }
 }
